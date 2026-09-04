@@ -1,7 +1,7 @@
 # Resurrect vault
 
 This directory is a snapshot of an Omarchy machine, written by
-[Resurrect](https://github.com/tsouth89/omarchy-resurrect).
+[Resurrect](https://github.com/btsouth/omarchy-resurrect).
 
 Replay it onto a fresh install with:
 
